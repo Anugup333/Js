@@ -5,10 +5,10 @@
 
 const id = Symbol('123')
 const anotherId = Symbol('123')
-console.log(id === anotherId )  // false
+// console.log(id === anotherId )  // false
 
 const bigNumber = 23453565468n
-console.log(typeof bigNumber);  // bigint
+// console.log(typeof bigNumber);  // bigint
 
 
 // Reference Data Type :
@@ -26,4 +26,9 @@ const myFunction = function(){
     console.log(" Hello World ")
 }
 
+console.log(typeof bigNumber)
+
+console.log(typeof heros)
+console.log(typeof myObj)
+console.log(typeof myFunction)
 
