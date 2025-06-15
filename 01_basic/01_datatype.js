@@ -9,10 +9,10 @@ let age = 18
 let isLoggedIn = false
 
 // number ==> 2 to power 53
-// bigint 
+// bigint ==> greater than number 
 // string ==> ""
 // boolean ==> true/false
-// null ==> standalone value
+// null ==> standalone value(a special value which represents “nothing”, “empty” or “value unknown)
 // undefined ==> now value are not defined
 // symbol ==> unique 
 
